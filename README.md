@@ -78,9 +78,9 @@ Este es solo el comienzo de un viaje largo y emocionante. 🚀
 ---
 
 <p align="center">
-    <a target= "_blank" href="https://www.facebook.com/profile.php?id=100094138998511" alt="Facebook"><img height='45' src="https://github.com/irischaconromero-beep/irischaconromero-beep/blob/main/icons/facebook_icon.png"></a>
-    <a target= "_blank" href="https://www.instagram.com/iris_chrm/" alt="Instagram"><img height='45' src="https://github.com/irischaconromero-beep/irischaconromero-beep/blob/main/icons/Instagram_icon.png"></a>
-    <a target= "_blank" href="https://www.linkedin.com/in/iris-chacon-98891b3b5/" alt="LinkedIn"><img height='45' src="https://github.com/irischaconromero-beep/irischaconromero-beep/blob/main/icons/linkedin_icon.png"></a>
+    <a target= "_blank" href="https://www.facebook.com/profile.php?id=100094138998511" alt="Facebook"><img height='45' src="https://github.com/IrisChaConRomero/irischaconromero-beep/blob/main/icons/facebook_icon.png"></a>
+    <a target= "_blank" href="https://www.instagram.com/iris_chrm/" alt="Instagram"><img height='45' src="https://github.com/IrisChaConRomero/IrisChaConRomero/blob/main/icons/Instagram_icon.png"></a>
+    <a target= "_blank" href="https://www.linkedin.com/in/iris-chacon-98891b3b5/" alt="LinkedIn"><img height='45' src="https://github.com/IrisChaConRomero/irischaconromero-beep/blob/main/icons/linkedin_icon.png"></a>
   <a target= "_blank" href="https://x.com/IrisChaCon_" alt="twitter"><img height='45' 
-src="https://github.com/irischaconromero-beep/irischaconromero-beep/blob/main/icons/Twitter.png"></a>
+src="https://github.com/IrisChaConRomero/irischaconromero-beep/blob/main/icons/Twitter.png"></a>
 <p>
