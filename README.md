@@ -39,7 +39,7 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 
 ### 🎯 Lo que estoy aprendiendo AHORA mismo
 
-- **CRM Kanban** (Completado✅) 🗄️: Primer CRM desarrolado con Antigravity IDE.
+- **CRM Kanban** (Completado✅) 🗄️: Primer CRM desarrollado con Antigravity IDE.
   
 - **Próximo paso** : Subirlo a mi repositorio Github y desplegarlo en la nube.
 
