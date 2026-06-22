@@ -17,7 +17,7 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 
 ## 📊 Mi progreso real en el Máster
 
-> **Completado: 37%**  
+> **Completado: 39%**  
 > ⬤⬤⬤⬤⬤⬤⬤◯◯◯ *Sigo avanzando cada semana*
 
 ### 🧠 Módulos que estoy cursando y dominando
@@ -29,8 +29,8 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 | Linux y la terminal | ✅ |
 | Python | ✅ |
 | Git y GitHub | ✅ |
-| SQL | 🔄 En curso |
-| IA Google Antigravity | 🔄 Próximamente |
+| SQL | ✅ |
+| IA Google Antigravity | 🔄 En curso |
 | Automatizaciones y Agentes | 🔄 Próximamente |
 | Frontend + IA (HTML, CSS, JS, React) | 🔄 Próximamente|
 | Diseña con IA | 🔄 Próximamente |
@@ -39,8 +39,9 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 
 ### 🎯 Lo que estoy aprendiendo AHORA mismo
 
-- **Git & GitHub** 🔁: control de versiones, ramas y colaboración  
-- **SQL** 🗄️: consultas, joins y modelado de datos   
+- **CRM Kanban** (Completado✅) 🗄️: Primer CRM desarrolado con Antigravity IDE.
+  
+- **Próximo paso** : Subirlo a mi repositorio Github y desplegarlo en la nube.
 
 > 💡 *Actualizo este README cada vez que completo un módulo nuevo. ¡Sigue mi evolución en tiempo real!*
 
