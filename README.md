@@ -17,7 +17,7 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 
 ## 📊 Mi progreso real en el Máster
 
-> **Completado: 40%**  
+> **Completado: 42%**  
 > ⬤⬤⬤⬤⬤⬤⬤◯◯◯ *Sigo avanzando cada semana*
 
 ### 🧠 Módulos que estoy cursando y dominando
@@ -30,8 +30,8 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 | Python | ✅ |
 | Git y GitHub | ✅ |
 | SQL | ✅ |
-| IA Google Antigravity | 🔄 En curso |
-| Automatizaciones y Agentes | 🔄 Próximamente |
+| IA Google Antigravity | ✅ |
+| Automatizaciones y Agentes |  🚀 En curso |
 | Frontend + IA (HTML, CSS, JS, React) | 🔄 Próximamente|
 | Diseña con IA | 🔄 Próximamente |
 | Backend + IA | 🔄 Próximamente |
@@ -39,9 +39,14 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 
 ### 🎯 Lo que estoy aprendiendo AHORA mismo
 
-- **CRM Kanban** (Completado✅) 🗄️: Primer CRM desarrollado con Antigravity IDE.
+- **Orquestación Avanzada de IA**: Usando NotebookLM, MCP y Open Agent Manager para crear apps con IA integrada.
   
-- **Próximo paso** : Subirlo a mi repositorio Github y desplegarlo en la nube.
+- **Flujo de Trabajo Dev** : GitHub Copilot + Antigravity IDE para codificar de forma asistida.
+
+- **Infraestructura y Despliegue** : Proyecto completo con base de datos Supabase y despliegue en Cloudflare Pages.
+
+- **Python Local** : Ejecutando LLMs y scripts de IA directamente en mi ordenador.
+
 
 > 💡 *Actualizo este README cada vez que completo un módulo nuevo. ¡Sigue mi evolución en tiempo real!*
 
@@ -55,6 +60,12 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=google&logoColor=white)
+![Open Agent Manager](https://img.shields.io/badge/Open%20Agent%20Manager-FF6B6B?style=flat&logo=ai&logoColor=white)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity-3B82F6?style=flat&logo=visual-studio-code&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 
 ## 💾 ¿Qué encontrarás aquí?
@@ -82,6 +93,6 @@ Este es solo el comienzo de un viaje largo y emocionante. 🚀
     <a target= "_blank" href="https://www.facebook.com/profile.php?id=100094138998511" alt="Facebook"><img height='45' src="https://github.com/IrisChaConRomero/IrisChaConRomero/blob/main/icons/facebook_icon.png"></a>
     <a target= "_blank" href="https://www.instagram.com/iris_chrm/" alt="Instagram"><img height='45' src="https://github.com/IrisChaConRomero/IrisChaConRomero/blob/main/icons/Instagram_icon.png"></a>
     <a target= "_blank" href="https://www.linkedin.com/in/iris-chacon-98891b3b5/" alt="LinkedIn"><img height='45' src="https://github.com/IrisChaConRomero/IrisChaConRomero/blob/main/icons/linkedin_icon.png"></a>
-    <a target= "_blank" href="https://x.com/IrisChaCon_" alt="twitter"><img height='45' 
-src="https://github.com/IrisChaConRomero/IrisChaConRomero/blob/main/icons/Twitter.png"></a>
+    <a target="_blank" href="AQUI_TU_ENLACE" alt="Mi Sitio Web"><img height='45' 
+src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Icono Web"></a>
 <p>
