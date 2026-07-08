@@ -94,5 +94,5 @@ Este es solo el comienzo de un viaje largo y emocionante. 🚀
     <a target= "_blank" href="https://www.instagram.com/iris_chrm/" alt="Instagram"><img height='45' src="https://github.com/IrisChaConRomero/IrisChaConRomero/blob/main/icons/Instagram_icon.png"></a>
     <a target= "_blank" href="https://www.linkedin.com/in/iris-chacon-98891b3b5/" alt="LinkedIn"><img height='45' src="https://github.com/IrisChaConRomero/IrisChaConRomero/blob/main/icons/linkedin_icon.png"></a>
     <a target="_blank" href="https://web-personal-cloudflare-tjs.pages.dev/" alt="Mi Sitio Web"><img height='45' 
-src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Icono Web"></a>>
+src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Icono Web"></a>
 <p>
