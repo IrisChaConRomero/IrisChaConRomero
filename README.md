@@ -62,7 +62,6 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=google&logoColor=white)
 ![Open Agent Manager](https://img.shields.io/badge/Open%20Agent%20Manager-FF6B6B?style=flat&logo=ai&logoColor=white)
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity-3B82F6?style=flat&logo=visual-studio-code&logoColor=white)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat&logo=cloudflare&logoColor=white)
