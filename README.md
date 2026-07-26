@@ -31,8 +31,8 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 | Git y GitHub | ✅ |
 | SQL | ✅ |
 | IA Google Antigravity | ✅ |
-| Automatizaciones y Agentes |  🚀 En curso |
-| Frontend + IA (HTML, CSS, JS, React) | 🔄 Próximamente|
+| Automatizaciones y Agentes | ✅ |
+| Frontend + IA (HTML, CSS, JS, React) | 🚀 En curso |
 | Diseña con IA | 🔄 Próximamente |
 | Backend + IA | 🔄 Próximamente |
 
