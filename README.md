@@ -72,11 +72,11 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 
 ## 💾 ¿Qué encontrarás aquí?
 
-- 🖥️ **TalentPulse**: Mi proyecto final Full Stack con su código fuente, arquitectura backend y memoria técnica.
+- 💻 [**TalentPulse**](https://github.com/IrisChaConRomero/TalentPulse): Mi proyecto final Full Stack con su código fuente, arquitectura backend y memoria técnica.
 - 📱 **Aplicaciones Full Stack**: Proyectos que integran lógica de negocio en Python/Django con frontends dinámicos en React.
 - 🧪 **Experimentos**: De código libre. 
 - 📚 **Prácticas de despliegue**: Configuraciones con Docker, manejo de entornos y despliegue continuo. 
-- 🤖 **Integración de IA en flujo de desarrollo: Agentes CLI, automatizaciones y asistencia de código aplicadas al trabajo diario.
+- 🤖 **Integración de IA en flujo de desarrollo**: Agentes CLI, automatizaciones y asistencia de código aplicadas al trabajo diario.
 
 
 ## ⚡ Dato curioso
