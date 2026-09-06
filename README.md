@@ -17,7 +17,7 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 
 ## 📊 Mi progreso real en el Máster
 
-> **Completado: 42%**  
+> **Completado: 73%**  
 > ⬤⬤⬤⬤⬤⬤⬤◯◯◯ *Sigo avanzando cada semana*
 
 ### 🧠 Módulos que estoy cursando y dominando
@@ -32,9 +32,9 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 | SQL | ✅ |
 | IA Google Antigravity | ✅ |
 | Automatizaciones y Agentes | ✅ |
-| Frontend + IA (HTML, CSS, JS, React) | 🚀 En curso |
-| Diseña con IA | 🔄 Próximamente |
-| Backend + IA | 🔄 Próximamente |
+| Frontend + IA (HTML, CSS, JS, React) | ✅ |
+| Diseña con IA | ✅ |
+| Backend + IA | 🚀 En curso |
 
 
 ### 🎯 Lo que estoy aprendiendo AHORA mismo
