@@ -18,7 +18,7 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 ## 📊 Mi progreso real en el Máster
 
 > **Completado: 95%**  
-> ⬤⬤⬤⬤⬤⬤⬤◯◯◯ *Sigo avanzando cada semana*
+> ⬤⬤⬤⬤⬤⬤⬤◯◯ *Sigo avanzando cada semana*
 
 ### 🧠 Módulos que estoy cursando y dominando
 
