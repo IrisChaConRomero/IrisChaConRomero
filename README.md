@@ -17,7 +17,7 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 
 ## 📊 Mi progreso real en el Máster
 
-> **Completado: 73%**  
+> **Completado: 95%**  
 > ⬤⬤⬤⬤⬤⬤⬤◯◯◯ *Sigo avanzando cada semana*
 
 ### 🧠 Módulos que estoy cursando y dominando
@@ -34,36 +34,39 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 | Automatizaciones y Agentes | ✅ |
 | Frontend + IA (HTML, CSS, JS, React) | ✅ |
 | Diseña con IA | ✅ |
-| Backend + IA | 🚀 En curso |
+| Backend + IA | ✅ |
+| Proyecto Fin de Máster | 🚀 En curso |
 
 
 ### 🎯 Lo que estoy aprendiendo AHORA mismo
 
-- **Orquestación Avanzada de IA**: Usando NotebookLM, MCP y Open Agent Manager para crear apps con IA integrada.
+- **TalentPulse (Proyecto Fin de Máster)**: Desarrollo de una plataforma web completa para evaluación 360º y seguimiento de OKRs, conectando una API REST en Django 5 con una interfaz en React 18 (Vite).
   
-- **Flujo de Trabajo Dev** : GitHub Copilot + Antigravity IDE para codificar de forma asistida.
+- **Arquitectura Backend y Seguridad** : Modelado de base de datos relacional, sistema de autenticación de usuarios personalizado (CustomUser) y control de accesos basado en roles (RBAC).
 
-- **Infraestructura y Despliegue** : Proyecto completo con base de datos Supabase y despliegue en Cloudflare Pages.
+- **Contenerización y Despliegue** : Empaquetado de servicios con Docker y puesta e producción en plataformas cloud como Render y Cloudflare Pages.
 
-- **Python Local** : Ejecutando LLMs y scripts de IA directamente en mi ordenador.
+- **Preparación para el mercado laboral** : Simulación de entrevistas técnicas, metodologías ágiles (Scrum) y optimización de porfolio profesional.
 
 
 > 💡 *Actualizo este README cada vez que completo un módulo nuevo. ¡Sigue mi evolución en tiempo real!*
 
 
 ## 🛠️ Tecnologías que estoy usando y aprendiendo
-                                        
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
+                                      
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat&logo=google&logoColor=white)
-![Open Agent Manager](https://img.shields.io/badge/Open%20Agent%20Manager-FF6B6B?style=flat&logo=ai&logoColor=white)
-![Antigravity IDE](https://img.shields.io/badge/Antigravity-3B82F6?style=flat&logo=visual-studio-code&logoColor=white)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 
