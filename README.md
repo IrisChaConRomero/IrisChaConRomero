@@ -19,7 +19,7 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 
 > **Completado: ⬤⬤⬤⬤⬤ 100%**
 
-> **Proyecto Fin de Máster** **(🚀 Pendiente envío)**
+> **Proyecto Fin de Máster** **(🚀 Pendiente calificación)**
 
 ### 🧠 Módulos que estoy cursando y dominando
 
