@@ -93,7 +93,6 @@ Siempre abierta a feedback, colaboraciones y nuevas oportunidades. 🚀
 ---
 
 <p align="center">
-    <a target= "_blank" href="https://www.facebook.com/profile.php?id=100094138998511" alt="Facebook"><img height='45' src="https://github.com/IrisChaConRomero/IrisChaConRomero/blob/main/icons/facebook_icon.png"></a>
     <a target= "_blank" href="https://www.instagram.com/iris_chrm/" alt="Instagram"><img height='45' src="https://github.com/IrisChaConRomero/IrisChaConRomero/blob/main/icons/Instagram_icon.png"></a>
     <a target= "_blank" href="https://www.linkedin.com/in/irischaconromero/" alt="LinkedIn"><img height='45' src="https://github.com/IrisChaConRomero/IrisChaConRomero/blob/main/icons/linkedin_icon.png"></a>
     <a target="_blank" href="https://web-personal-cloudflare-tjs.pages.dev/" alt="Mi Sitio Web"><img height='45' 
