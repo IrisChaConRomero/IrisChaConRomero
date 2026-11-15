@@ -19,7 +19,7 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 
 > **Completado: ⬤⬤⬤⬤⬤ 100%**
 
-> **Proyecto Fin de Máster** **(🚀 Pendiente calificación)**
+> **Proyecto Fin de Máster** **(🚀 APROBADO ✅ )**
 
 ### 🧠 Módulos que estoy cursando y dominando
 
@@ -36,7 +36,7 @@ Mi objetivo es mostrar no solo los resultados finales, sino también **mi proces
 | Frontend + IA (HTML, CSS, JS, React) | ✅ |
 | Diseña con IA | ✅ |
 | Backend + IA | ✅ |
-| Proyecto Fin de Máster | 🚀 En curso |
+| Proyecto Fin de Máster | ✅ |
 
 
 ### 🎯 Lo que estoy aprendiendo AHORA mismo
